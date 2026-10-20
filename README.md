@@ -33,7 +33,7 @@ This project is a movie recommendation application that suggests similar movies 
    ```
 
 ## Demo
-[Live Demo](https://movie-recommendation-system-nkp.streamlit.app/)
+[Live Demo-movie-recommendation-system](https://movie-recommendation-system-nkp.streamlit.app/)
 
 ## Author
 **Niraj Kumar Pal**
